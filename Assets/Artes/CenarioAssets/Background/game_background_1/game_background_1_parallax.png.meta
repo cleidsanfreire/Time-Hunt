@@ -147,7 +147,8 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      game_background_1_parallax_0: 2789379164436371970
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 
